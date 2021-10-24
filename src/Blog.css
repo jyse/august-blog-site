@@ -1,0 +1,12 @@
+.blog {
+  background-color: purple;
+  width: 180px;
+}
+
+.blog h1 {
+  font-size: 24px;
+}
+
+.blog p {
+  font-size: 11px;
+}
